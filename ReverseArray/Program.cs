@@ -73,7 +73,7 @@ namespace ReverseArray
                     }
                 }
             }
-            catch (Exception ex)
+            catch (Exception e)
             { 
                 
             }
